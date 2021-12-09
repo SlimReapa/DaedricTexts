@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
 
-You can use the [editor on GitHub](https://github.com/SlimReapa/DaedricTexts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan Lefebvre Tree</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="icon" href="./images/profile.jpg" type="image/x-icon" />
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+    <a class="profilePicture">
+        <img src="./images/profile.jpg" alt="Profile Picture">
+    </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div class="userName">
+        Ryan Lefebvre
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div class="description">
+        Drinking coffee, writing code or lifting weights. Focused on getting better every day.
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="links">
+        <a class="link" href="https://www.logsmarter.net" target="_blank">
+            <i class="fas fa-robot">&nbsp;</i>LogSmarter™
+        </a>
+        <a class="link" href="https://geodaka.github.io" target="_blank">
+            <i class="fas fa-globe">&nbsp;</i>Geodaka
+        </a>
+        <a class="link" href="https://github.com/RyanLefebvre" target="_blank">
+            <i class="fab fa-github">&nbsp;</i>Github
+        </a>
+        <a class="link" href="https://www.linkedin.com/in/ryan-lefebvre/" target="_blank">
+            <i class="fab fa-linkedin">&nbsp;</i>LinkedIn
+        </a>
+        <a class="link" href="https://www.instagram.com/ryanlefeb33/" target="_blank">
+            <i class="fab fa-instagram">&nbsp;</i>Instagram
+        </a>
+        <a class="link" href="https://www.reddit.com/user/BostonRAL" target="_blank">
+            <i class="fab fa-reddit">&nbsp;</i>Reddit
+        </a>
+    </div>
 
-- Bulleted
-- List
+    <div class="source">
+        I built this linktree for free. If you want your own, here is the
+        <a href="https://github.com/RyanLefebvre/TREE">source code</a>
+    </div>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SlimReapa/DaedricTexts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
