@@ -81,7 +81,7 @@ body {
     position: relative;
     background-color: transparent;
     color: var(--accentColor);
-    border: transparent var(--accentColor) 2px;
+    border: solid var(--accentColor) 0px;
     border-radius: 10px;
     font-size: 1rem;
     text-align: center;
@@ -89,7 +89,7 @@ body {
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-    padding: 0px;
+    padding: 30px;
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
 }
