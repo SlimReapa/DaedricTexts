@@ -60,7 +60,7 @@ body {
 }
 
 .userName {
-    color: var(--accentColor);
+    color: #ce203c;
     font-size: x-large;
     font-weight: bold;
     line-height: 1.25;
